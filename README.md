@@ -69,7 +69,7 @@ amazon-reviews-sentiment-analysis/
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/amazon-reviews-sentiment-analysis.git
+git clone https://github.com/katyatrufanova/amazon-reviews-sentiment-analysis.git
 cd amazon-reviews-sentiment-analysis
 ```
 
